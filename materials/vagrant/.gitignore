@@ -1,1 +1,3 @@
 .vagrant
+fixScripts/set-test.sh
+test-files
